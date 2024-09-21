@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Duta from Yogyakarta, Indonesia<br><br>- 📚 I'm currently learning at Universitas Gadjah Mada<br>- 🖥️ I'm a tech enthusiast<br>- ⚡ Fun fact: I love football<br>- 😄 Pronouns: He/Him</p>
+<p align="left">I'm Duta from Yogyakarta, Indonesia<br><br>- 📚 I'm currently learning at Universitas Gadjah Mada<br>- 🖥️ I'm a tech enthusiast<br>- ⚡ Fun fact: I love watching football matches<br>- 😄 Pronouns: He/Him</p>
 
 ###
 
