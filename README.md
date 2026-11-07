@@ -111,10 +111,11 @@ I'm **Duta**, an Information Technology graduate from **Universitas Gadjah Mada 
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=dutaramadhan&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=dutaramadhan&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </div>
+
 
 ---
 
