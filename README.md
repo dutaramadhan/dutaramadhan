@@ -91,40 +91,28 @@ I'm **Duta**, an Information Technology graduate from **Universitas Gadjah Mada 
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dutaramadhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=dutaramadhan&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
+    alt="GitHub Statistics"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutaramadhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dutaramadhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
     alt="Top Languages"
-    height="170"
   />
-
 </div>
 
 ### 🔥 GitHub Streak
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=dutaramadhan&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=dutaramadhan&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-  />
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dutaramadhan&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-    width="100%"
   />
 </div>
 
