@@ -4,11 +4,6 @@
 
   <h3>Software Engineer | Backend Development | AI & Machine Learning</h3>
 
-  <p>
-    <a href="https://github.com/dutaramadhan">
-      <img src="https://komarev.com/ghpvc/?username=dutaramadhan&style=flat-square&color=7aa2f7" alt="Profile Views"/>
-    </a>
-  </p>
 
   <p>
     <a href="https://www.linkedin.com/in/diestrapradanadutaramadhan/">
