@@ -1,86 +1,147 @@
-<div align="center">
-  <img height="150" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
-</div>
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diestrapradanadutaramadhan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:duta2711@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/duta.rmdhn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+  <h1>Hey there, I'm Duta! 👋</h1>
+
+  <h3>Software Engineer | Backend Development | AI & Machine Learning</h3>
+
+  <p>
+    <a href="https://github.com/dutaramadhan">
+      <img src="https://komarev.com/ghpvc/?username=dutaramadhan&style=flat-square&color=7aa2f7" alt="Profile Views"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/diestrapradanadutaramadhan/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:duta2711@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.instagram.com/duta.rmdhn">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
 </div>
 
-###
+---
 
-<h1 align="center">Hey there 👋</h1>
+### 👨‍💻 About Me
 
-###
+I'm **Duta**, an Information Technology graduate from **Universitas Gadjah Mada (UGM)** with hands-on experience in software engineering and a strong interest in AI research.
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 💻 I build **backend services, REST/gRPC APIs, and distributed applications**, primarily with **Go** and **Python**.
+- 🏗️ I've worked on a **hotel property management system (PMS)** built with microservices, PostgreSQL, RabbitMQ, and Docker.
+- 🧠 My undergraduate research explored **LLM-based natural language to SQL (NL2SQL)**.
+- 🌱 I'm currently deepening my knowledge of **system design, cloud infrastructure, and LLM/Transformer architectures**.
+- 🤝 I'm interested in collaborating on **software engineering and applied AI projects**.
+- ⚽ Outside of tech, I enjoy watching football matches.
 
-###
+---
 
-<p align="left">I'm Duta from Yogyakarta, Indonesia<br><br>- 📚 I'm a fresh graduate from Universitas Gadjah Mada<br>- 🖥️ I'm a tech enthusiast<br>- ⚡ Fun fact: I love watching football matches<br>- 😄 Pronouns: He/Him</p>
+## 🛠️ Tech Stack
 
-###
+### 💻 Programming Languages
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,cpp,cs&theme=dark" alt="Programming Languages"/>
+</p>
 
-###
+### ⚙️ Backend Development
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="40" alt="grpc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,dotnet&theme=dark" alt="Backend Technologies"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white" alt="Protocol Buffers"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+### 🗄️ Databases & Messaging
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,rabbitmq&theme=dark" alt="Databases and Messaging"/>
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,aws,azure,gcp&theme=dark" alt="DevOps and Cloud"/>
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark" alt="AI and Machine Learning"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/NLP-3776AB?style=flat-square" alt="NLP"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dutaramadhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutaramadhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    height="170"
+  />
+
 </div>
 
-###
+### 🔥 GitHub Streak
 
-<!-- <h3 align="left">🔥   My Stats :</h3> -->
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dutaramadhan&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
 
-###
+### 📈 Contribution Activity
 
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dutaramadhan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> -->
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dutaramadhan&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</div>
 
-###
+---
+
+<div align="center">
+  <h3>🤝 Let's Connect!</h3>
+
+  <p>
+    I'm always open to discussing software engineering, AI, interesting projects, and new opportunities.
+  </p>
+
+  <p>
+    <a href="mailto:duta2711@gmail.com">Email</a> •
+    <a href="https://www.linkedin.com/in/diestrapradanadutaramadhan/">LinkedIn</a> •
+    <a href="https://github.com/dutaramadhan">GitHub</a>
+  </p>
+
+  <p><i>Thanks for visiting my profile! 🚀</i></p>
+</div>
