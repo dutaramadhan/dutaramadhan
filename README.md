@@ -47,22 +47,24 @@ I'm **Duta**, an Information Technology graduate from **Universitas Gadjah Mada 
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,dotnet&theme=dark" alt="Backend Technologies"/>
 </p>
 
-<p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" alt="Gin"/>
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" alt="gRPC"/>
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API"/>
   <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white" alt="Protocol Buffers"/>
 </p>
 
-### 🎨 Frontend Development
+### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter&theme=dark" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" alt="Databases"/>
 </p>
 
-### 🗄️ Databases & Messaging
+
+### 🔄 Messaging & Caching
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,rabbitmq&theme=dark" alt="Databases and Messaging"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,redis&theme=dark" alt="Messaging and Caching"/>
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -71,18 +73,54 @@ I'm **Duta**, an Information Technology graduate from **Universitas Gadjah Mada 
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,aws,azure,gcp&theme=dark" alt="DevOps and Cloud"/>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" alt="Portainer"/>
+</p>
+
 ### 🤖 AI & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark" alt="AI and Machine Learning"/>
 </p>
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" alt="RAG"/>
   <img src="https://img.shields.io/badge/NLP-3776AB?style=flat-square" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Embeddings-673AB7?style=flat-square" alt="Embeddings"/>
 </p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+### 🧪 Testing & API Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Testing Tools"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
+</p>
+
+
+### 🧰 Development & Design Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,github,git&theme=dark" alt="Development and Design Tools"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+</p>
+
 
 ---
 
