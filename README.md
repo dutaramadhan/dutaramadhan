@@ -70,7 +70,7 @@ I'm **Duta**, an Information Technology graduate from **Universitas Gadjah Mada 
 ### ☁️ DevOps & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,aws,azure,gcp&theme=dark" alt="DevOps and Cloud"/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,aws,azure,gcp&theme=dark" alt="DevOps and Cloud"/>
 </p>
 
 <p align="left">
